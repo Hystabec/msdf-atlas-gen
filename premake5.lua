@@ -19,8 +19,7 @@ project "msdfgen"
 	includedirs
 	{
 		"msdf-atlas-gen",
-		"msdfgen",
-		"msdfgen/include"
+		"msdfgen"
 	}
 
 	defines
