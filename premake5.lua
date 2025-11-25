@@ -1,6 +1,6 @@
 include "msdfgen"
 
-project "msdfgen-atlas-gen"
+project "msdf-atlas-gen"
 	kind "StaticLib"
 	language "C++"
 	cppdialect "C++17"
