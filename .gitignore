@@ -18,3 +18,9 @@ bin/*.lib
 output.png
 out/
 build/
+
+.vs/
+bin/
+*.sln
+*.vcxproj
+*.vcxproj.filters
